@@ -1,0 +1,692 @@
+[
+  {
+    "month": "September",
+    "date": "9/1",
+    "day": "THURSDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "CUTSCENE",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "CUTSCENE",
+      "recommended": "CUTSCENE"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\n",
+      "sales": "New Items Available\nNew Phantom Thief \nThemed Items in Stores\nNew Drinks in \nVending Machines",
+      "metaverse": "N/A",
+      "extra": "Next Midterm is 10/17 Level 4 \n Knowledge needed.\n\nWant a stuffed toy for your room? Try out the\nCrane Game at the Akihabara Arcade ",
+      "recommended": "Buy the Broken Laptop at the Secondhand\nBuy the PC Tool Set in Akihabara\n\nSpend time with Chihaya"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/2",
+    "day": "FRIDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "The Return of MURDER CHALK\n+2 Charm",
+      "confidants": "Takemi - Death\nAnn - Lovers\nMaruki - Councillor\nYusuke - Emperor\nFutaba - Hermit\n",
+      "sales": "Yakisoba Pan at School Store\nAutumn Bread at School Store",
+      "metaverse": "Mementos Available",
+      "extra": "New Confidant Available\nJack Frost Toy at Akihabara Arcade \n\nMaruki is still locked at Rank 5",
+      "recommended": "Summon Kurama Tengu (or any Hermit)\n\nAdvance Hermit to Rank 2"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "Call in at Ore No Beko +3 Proficiency\nCrossword +1 Knowledge\nYongen Movie Theater:\nShowtime Redemption +3 Charm",
+      "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nOhya - Devil\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "Might be the earilest you can access the \nMovie Theater in Yongen",
+      "recommended": "Summon a Devil Arcana Persona \n\nAdvance Devil to Rank 4"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/3",
+    "day": "SATURDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "Class Question +1 Knowledge",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "CUTSCENE",
+      "recommended": "CUTSCENE"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "Call in from Crossroads +Kindness",
+      "confidants": "Iwai - Hanged Man\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "Suprise Pancake Boi in Lablanc\nJustice Locked to Rank 6\n\n\"Maid Day\" at the Maid Cafe",
+      "recommended": "Summon a Hanged Arcana Persona\nSend a Calling Postcard to Iwai\n(The Cards are on Central Street)\n\nAdvance Justice to Rank 6"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/4",
+    "day": "SUNDAY",
+    "Daytime": {
+      "weather": "Clear",
+      "socials": "Aojiru +1 Knowledge",
+      "confidants": "Takemi - Death\nFutaba - Hermit\n",
+      "sales": "Potent Healing items for sale\nat the Church in Kanda",
+      "metaverse": "Mementos Available\nNew Request\nAvailable",
+      "extra": "Trader Sakai wants Phantom Wafers until 9/6",
+      "recommended": "Investigate the Arcade in Shibuya\nBuy some Aojiru\n\nDive into Mementos"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "Aojiru +1  Knowledge\nMedicated Bath +3 Charm\nLeftover Curry Ingredients +1 Guts\n",
+      "confidants": "Iwai - Hanged Man\nYoshida - Sun\nChihaya - Fortune\nOhya - Devil\n",
+      "sales": "Chunky Katsu in Kichijoji",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Call Kawakami for a massage\n\nAdvance Fortune to Rank 4"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/5",
+    "day": "MONDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "",
+      "confidants": "Takemi - Death\nMaruki - Councillor\nFutaba - Hermit\nShinya - Tower \n",
+      "sales": "Weekly Restock",
+      "metaverse": "Mementos Available",
+      "extra": "New Confidant Available",
+      "recommended": "Make a deal with Trader Sakai\n\nAdvance Hermit to Rank 3"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "Leftover Curry Ingredients +1 Guts",
+      "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "Singer at the Jazz Club Tonight",
+      "recommended": "Summon a Devil Arcana Persona\nSend a Calling Postcard to Ohya\n\nAdvance Devil to Rank 5"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/6",
+    "day": "TUESDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Class Question +1 Knowledge",
+      "confidants": "Takemi - Death\nMaruki - Councillor\nShinya - Tower\n",
+      "sales": "",
+      "metaverse": "Mementos Available",
+      "extra": "Trader Sakai wants Phantom Wafers until 9/6",
+      "recommended": "Buy the games Train of Life, Featherman\nSeeker, and Power Intuition\n\nInvestigate the Arcade in Akihabara"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/7",
+    "day": "WEDNESDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "CUTSCENE",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "School Trip",
+      "recommended": "School Trip"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/8",
+    "day": "THURSDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "CUTSCENE",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "School Trip",
+      "recommended": "School Trip"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/9",
+    "day": "FRIDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "CUTSCENE",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "School Trip",
+      "recommended": "School Trip"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/10",
+    "day": "SATURDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "CUTSCENE",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "School Trip",
+      "recommended": "School Trip"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/11",
+    "day": "SUNDAY",
+    "Daytime": {
+      "weather": "Clear",
+      "socials": "CUTSCENE",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "School Trip",
+      "recommended": "School Trip"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/12",
+    "day": "MONDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "CUTSCENE",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "CUTSCENE",
+      "recommended": "CUTSCENE"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "Feed your plant, it missed you too"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/13",
+    "day": "TUESDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "CUTSCENE",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "CUTSCENE",
+      "recommended": "CUTSCENE"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/14",
+    "day": "WEDNESDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Class Question +1 Knowledge",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "CUTSCENE",
+      "recommended": "CUTSCENE"
+    },
+    "Evening": {
+      "weather": "Rain",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/15",
+    "day": "THURSDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "Restricted",
+      "confidants": "Restricted\n",
+      "sales": "Restricted",
+      "metaverse": "Restricted",
+      "extra": "CUTSCENE",
+      "recommended": "CUTSCENE"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/16",
+    "day": "FRIDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "CUTSCENE",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "CUTSCENE",
+      "recommended": "CUTSCENE"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/17",
+    "day": "SATURDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Class Question +1 Knowledge",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "CUTSCENE",
+      "recommended": "CUTSCENE"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "SLEEP",
+      "confidants": "SLEEP\n",
+      "sales": "SLEEP",
+      "metaverse": "N/A",
+      "extra": "SLEEP",
+      "recommended": "SLEEP"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/18",
+    "day": "SUNDAY",
+    "Daytime": {
+      "weather": "Clear",
+      "socials": "CUTSCENE",
+      "confidants": "CUTSCENE\n",
+      "sales": "CUTSCENE",
+      "metaverse": "CUTSCENE",
+      "extra": "CUTSCENE",
+      "recommended": "CUTSCENE"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "Leftover Curry Ingredients +1 Guts",
+      "confidants": "\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Fix that Laptop you bought"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/19",
+    "day": "MONDAY",
+    "Daytime": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Takemi - Death\nYusuke - Emperor\nShinya - Tower \n",
+      "sales": "Weekly Restock",
+      "metaverse": "New Palace Available\nMementos Available\nNew Request Available\n\n22 Days until Deadline",
+      "extra": "Respect for the Aged Day\nTrader Sakai wants a Thief Mask until 9/24\nNetwork Fusion Unlocked",
+      "recommended": "Stock up for a Palace Run\nBuy a Calling Postcard\nGo to Chihaya for a Money Reading\n\nInfiltrate the Palace"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "Crossword +1 Knowledge\nLeftover Curry Ingredients +1 Guts",
+      "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nKawakami - Temp\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\nTakemi - Death",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Call Kawakami for a Massage\nBuy some Mega Nutrients\nCrossword Time\n\nAdvance Star to Rank 4"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/20",
+    "day": "TUESDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Takemi - Death\nRyuji - Chariot\nMaruki - Councillor\nMakoto - Priestess\n",
+      "sales": "",
+      "metaverse": "Palace & Mementos\nAvailable\n\n21 Days until Deadline",
+      "extra": "Next Midterm is 10/17 Level 4 \n Knowledge needed.\n\nMaruki no longer locked at Rank 5",
+      "recommended": "Make a deal with Trader Sakai\n\nSend the Calling Card"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "Leftovers in the Fridge",
+      "recommended": "Make a few Lockpicks and anything else"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/21",
+    "day": "WEDNESDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "Class Question +1 Knowledge",
+      "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nFutaba - Hermit\n",
+      "sales": "",
+      "metaverse": "Palace & Mementos\nAvailable\n\n20 Days until Deadline",
+      "extra": "",
+      "recommended": "Steal the treasure"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "Leftover Curry Ingredients +1 Guts",
+      "confidants": "Mishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Call Kawakami for a Massage\n\nAdvance Star to Rank 5"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/22",
+    "day": "THURSDAY",
+    "Daytime": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Takemi - Death\nYusuke - Emperor\nMakoto - Priestess\nFutaba - Hermit\nShinya - Tower \nMishima - Moon\nHifumi - Star",
+      "sales": "",
+      "metaverse": "Palace & Mementos\nAvailable\n\n19 Days until Deadline",
+      "extra": "Autumnal Equinox Day\nBig Burger Burger-kun Toy at Akihabara\nArcade",
+      "recommended": "Advance Tower to Rank 2"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "TV Quiz +1 Knowledge",
+      "confidants": "Sojiro - Hierophant\nMishima - Moon\nYoshida - Sun\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nTakemi - Death",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Summon a Devil Arcana Persona\nSend a Calling Postcard to Ohya\n\nAdvance Devil to Rank 6"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/23",
+    "day": "FRIDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Can Slack off in another teachers \nclass (Temperance Rank 5)\n\n",
+      "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMaruki - Councillor\nYusuke - Emperor\n",
+      "sales": "Yakisoba Pan at School Store",
+      "metaverse": "Palace & Mementos\nAvailable\n\n18 Days until Deadline",
+      "extra": "",
+      "recommended": "Read The Illusory Popess and exchange\nfor The Gallant Rogue\n\nAdvance Councillor to Rank 6"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "",
+      "confidants": "Mishima - Moon\nKawakami - Temp\nOhya - Devil\nTakemi - Death\n",
+      "sales": "Street Accessories Vendor",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Advance Devil to Rank 7"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/24",
+    "day": "SATURDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "Can Read a book on the Train\nClass Question +1 Knowledge\nCall in at Rafflesia +Kindness",
+      "confidants": "Takemi - Death\nRyuji - Chariot\nMaruki - Councillor\nMakoto - Priestess\nFutaba - Hermit\nShinya - Tower ",
+      "sales": "",
+      "metaverse": "Palace & Mementos\nAvailable\n\n17 Days until Deadline",
+      "extra": "Trader Sakai wants a Thief Mask until 9/24\n\"Maid Day\" at the Maid Cafe",
+      "recommended": "Read The Gallant Rouge and exchange\nfor Cry of Cthulhu\n\nAdvance Tower to Rank 3"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "",
+      "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Advance Star to Rank 6"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/25",
+    "day": "SUNDAY",
+    "Daytime": {
+      "weather": "Cloudy",
+      "socials": "Games w/ Futaba +3 Guts\n\nAojiru +1 Charm",
+      "confidants": "Takemi - Death\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess\nFutaba - Hermit\nShinya - Tower ",
+      "sales": "TV Shopping:\nPhantom Thief Set 2-8,980yen\nThief Fun Set - 2,000yen\nPotent Healing items for sale\nat the Church in Kanda",
+      "metaverse": "Palace & Mementos\nAvailable\n\n16 Days until Deadline",
+      "extra": "",
+      "recommended": "Buy the Thief Fun Set and some Aojiru\nSummon a Emperor Arcana Persona\n\nAdvance Emperor to Rank 6"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "Aojiru +1 Charm\nMedicated Bath +3 Charm\nCall in at Crossroads +Kindness\nLeftover Curry Ingredients +1 Guts",
+      "confidants": "Iwai - Hanged Man\nYoshida - Sun\nChihaya - Fortune\nHang w/ Futaba",
+      "sales": "TV Shopping:\nPhantom Thief Set 2-8,980yen\nThief Fun Set - 2,000yen\n\nChunky Katsu in Kichijoji",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Summon a Hanged Man Arcana Persona\n\nAdvance Hanged Man to Rank 7"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/26",
+    "day": "MONDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "",
+      "confidants": "Takemi - Death\nMaruki - Councillor\nYusuke - Emperor\nFutaba - Hermit\nShinya - Tower \n",
+      "sales": "Weekly Restock",
+      "metaverse": "Palace & Mementos\nAvailable\n\n15 Days until Deadline",
+      "extra": "",
+      "recommended": "Buy a Calling Postcard\n\nAdvance Tower to Rank 4"
+    },
+    "Evening": {
+      "weather": "Rain",
+      "socials": "Leftover Curry Ingredients +1 Guts",
+      "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nOhya - Devil\nHifumi - Star\nTakemi - Death",
+      "sales": "TV Shopping Delivery",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Practice Shogi with Hifumi"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/27",
+    "day": "TUESDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Double Points day at 777 +Charm",
+      "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMaruki - Councillor\nMakoto - Priestess\n",
+      "sales": "",
+      "metaverse": "Palace & Mementos\nAvailable\n\n14 Days until Deadline",
+      "extra": "",
+      "recommended": "Summon a Priestess Arcana Persona\n\nAdvance Priestess to Rank 8"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\n\n",
+      "sales": "Street Accessories Vendor",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Go see what Ohya needs"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/28",
+    "day": "WEDNESDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Can Read a book on the Train\nClass Question +1 Knowledge\n ",
+      "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nKasumi - Faith\nMakoto - Priestess\nFutaba - Hermit\nShinya - Tower ",
+      "sales": "Totem-Pole (+Proficiency)\nnow available at the Diner\nin Shibuya\n",
+      "metaverse": "Palace & Mementos\nAvailable\n\n13 Days until Deadline",
+      "extra": "",
+      "recommended": "Read Cry of Cthulhu and exchange it\nfor Woman in the Dark\n\nAdvance Hermit to Rank 4"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "Crossword +1 Knowledge\nLeftover Curry Ingredients +1 Guts",
+      "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Crossword Time\n\nAdvance Star to Rank 7"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/29",
+    "day": "THURSDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Class Question +1 Knowledge\n ",
+      "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMaruki - Councillor\nYusuke - Emperor\nMakoto - Priestess\nFutaba - Hermit\nShinya - Tower ",
+      "sales": "",
+      "metaverse": "Palace & Mementos\nAvailable\n\n12 Days until Deadline",
+      "extra": "",
+      "recommended": "Advance Priestess to Rank 9"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "TV Quiz +1 Knowledge",
+      "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nTakemi - Death",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Advance Fortune to Rank 5"
+    }
+  },
+  {
+    "month": "September",
+    "date": "9/30",
+    "day": "FRIDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Can Slack off in another teachers \nclass (Temperance Rank 5)",
+      "confidants": "Takemi - Death\nAnn - Lovers\nMaruki - Councillor\nYusuke - Emperor\nFutaba - Hermit\nShinya - Tower ",
+      "sales": "Yakisoba Pan at School Store",
+      "metaverse": "Palace & Mementos\nAvailable\n\n11 Days until Deadline",
+      "extra": "",
+      "recommended": "Read Ghost Encounters\nSummon a Emperor Arcana Persona\n\nAdvance Emperor to Rank 7"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "Leftover Curry Ingredients +1 Guts",
+      "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\n",
+      "sales": "Street Accessories Vendor",
+      "metaverse": "N/A",
+      "extra": "Singer at the Jazz Club Tonight\nFollowing the Recommended Actions? If so, \nyour social stats should look like this today.\nKnowledge Rank MAX  / Guts Rank 4\nProficiency Rank 4  / Kindness Rank 4\nCharm Rank MAX",
+      "recommended": "Feed that Plant <3\nGet a Luck Reading from Chihaya\nto increase Guts\n\nFinish a level in Power Intuition"
+    }
+  }
+]

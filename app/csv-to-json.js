@@ -38,7 +38,7 @@ const writeItems = ({file, data}) => {
   })
 }
 
-const loadItems = async ({name, file}) => {
+const saveItems = async ({name, file}) => {
   const month = []
   await fs.createReadStream('data/csv/' + file + '.csv')
   .pipe(csv())
@@ -55,5 +55,5 @@ const loadItems = async ({name, file}) => {
 
 
 months.forEach(async ({name, file}) => {
-  await loadItems({name, file})
+  await saveItems({name, file})
 })

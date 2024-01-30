@@ -1,0 +1,301 @@
+[
+  {
+    "month": "April",
+    "date": "4/18",
+    "day": "MONDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "Shibuya Movie Theater \n Tanktop Millionaire +3 Guts\nStudying the the Libraby has a lower\nchance of raising knowledge but can\nraise Guts instead",
+      "confidants": "Takemi - Death\n",
+      "sales": "Spring Exclusive Items now\nin stores till 5/31. \n\nWeekly Restock",
+      "metaverse": "New Palace Unlocked\nPalace Available\n\n14 Days until Deadline",
+      "extra": "Feel free to explore the areas available to you.\nTime won't pass until you commit to an Activity,\nor Confidant.",
+      "recommended": "Borrow Pirate Legends from the Library\n\nInitiate Death Arcana Confidant\nBold indicates that the action will advance time"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "Crossword at Leblanc +1 Knowledge",
+      "confidants": "\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "Might as well clean your room tonight so you \ncan have full access to your room. Feeding the\nplant nutrients is a stat increase that takes up \nno time. Plus you'll find a CRT TV that pairs\nnicely with the DVD at the pawn shop now.",
+      "recommended": "Solve the first Crossword\n\nClean your Room"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/19",
+    "day": "TUESDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Class Question +1 Knowledge\n",
+      "confidants": "Takemi - Death\nRyuji - Chariot\n",
+      "sales": "",
+      "metaverse": "Palace Available\n\n13 Days until Deadline",
+      "extra": "",
+      "recommended": "Purchase Bio Nutrients from the \nFlower Shop & Purchase SP Drinks from\nVending Machines\n\nInfiltrate the Palace"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "Plant Feeding +1-2 Kindness ",
+      "confidants": "\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "NO MORE Going to bed Joker :O\nFeed your plant!!\n\nRead Pirate Legends"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/20",
+    "day": "WEDNESDAY",
+    "After School": {
+      "weather": "Rain",
+      "socials": "Can Read a Book on the Train\n\nImproved Study +3 Knowledge\nImproved Tool Crafting",
+      "confidants": "Takemi - Death\n",
+      "sales": "Rainy Day Items Available",
+      "metaverse": "Palace Available\n\n12 Days until Deadline",
+      "extra": "Midterm on 5/11 Knowledge Rank 2 to pass, \nRank 3 for Top Ten in Class. \nDon't worry about being Top Ten or Ranked One\nthe rewards aren't worth it. Settle for passing \nthe exams and the plus 2 to Charm.",
+      "recommended": "Finish Pirate Legends & Exchange for\nZorro, the Outlaw. Buy the DVD player in\nYongen then head to Shubuya to rent Wraith\n\nSend the Calling card"
+    },
+    "Evening": {
+      "weather": "Rain",
+      "socials": "Improved Study +3 Knowledge\nImproved Tool Crafting",
+      "confidants": "Sojiro-Hierophant\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Make three Lockpicks"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/21",
+    "day": "THURSDAY",
+    "After School": {
+      "weather": "Rain",
+      "socials": "Shibuya Diner now available\n\nImproved Study +3 Knowledge",
+      "confidants": "Takemi - Death\n",
+      "sales": "Rainy Day Items Available",
+      "metaverse": "Palace Available\n\n11 Days until Deadline\n",
+      "extra": "",
+      "recommended": "Steal the Treasure!!"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "Bathhouse now Available +2 Charm ",
+      "confidants": "Sojiro - Hierophant\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "Spare Sandwich in the Fridge \n\nSojiro will now let you roam Yongen-Jaya \nat night.",
+      "recommended": "Watch Wraith"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/22",
+    "day": "FRIDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Takemi - Death\nRyuji - Chariot\n",
+      "sales": "Yakisoba Pan at School Store",
+      "metaverse": "Palace Available\n\n10 Days until Deadline",
+      "extra": "",
+      "recommended": "Watch Tanktop Millionare at Shibuya\nMovie Theater"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Have a little chat with Sojiro"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/23",
+    "day": "SATURDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Class Question +1 Knowledge\n",
+      "confidants": "Takemi - Death\nRyuji - Chariot\n",
+      "sales": "Supermarket sale in Yongen\n",
+      "metaverse": "Palace Available\n\n9 Days until Deadline",
+      "extra": "\n",
+      "recommended": "Advance Death to Rank 2"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Advance Hierophant to Rank 2"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/24",
+    "day": "SUNDAY",
+    "Daytime": {
+      "weather": "Clear",
+      "socials": "Aojiru Juice for Sale +1 Charm\n(Try to not miss these every Sunday)",
+      "confidants": "Takemi - Death\nRyuji - Chariot\n",
+      "sales": "Supermarket sale in Yongen\n\nTV Shopping: \nSpring Awake Set - 1,680yen\nShare of Spring Set - 5,980yen",
+      "metaverse": "Palace Available\n\n 8 Days until Deadline",
+      "extra": "",
+      "recommended": "Buy Aojiru Juice\n\nApply and Work at Triple Seven"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\n",
+      "sales": "TV Shopping: \nSpring Awake Set - 1,680yen\nShare of Spring Set - 5,980yen",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Brew some Coffee"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/25",
+    "day": "MONDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "Can Read a Book on the Train \n\nClass Question +1 Charm & \n+1 (+2) with Ann\n\n",
+      "confidants": "Takemi - Death\nRyuji - Chariot\n",
+      "sales": "Weekly Restock",
+      "metaverse": "Palace Available\n\n7 Days until Deadline",
+      "extra": "\n\n",
+      "recommended": "Read Zorro, the Outlaw\n\nStudy in the Library"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\n",
+      "sales": "TV Shopping Delivery ",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Advance Hierophant to Rank 3"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/26",
+    "day": "TUESDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Takemi - Death\nRyuji - Chariot\n",
+      "sales": "",
+      "metaverse": "Palace Available\n\n6 Days until Deadline",
+      "extra": "",
+      "recommended": "Advance Death to Rank 3"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Finish watching Wraith"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/27",
+    "day": "WEDNESDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "Class Question +1 Knowledge\n",
+      "confidants": "Takemi - Death\nRyuji - Chariot\n",
+      "sales": "Triple Seven Double Points \nDay",
+      "metaverse": "Palace Available\n\n5 Days until Deadline",
+      "extra": "",
+      "recommended": "Return Wraith and rent The X Folders\n\nWork at Triple Seven"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "Crossword +1 Knowledge\n",
+      "confidants": "Sojiro - Hierophant\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Solve a Crossword\n\nWatch The X Folders"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/28",
+    "day": "THURSDAY",
+    "After School": {
+      "weather": "Cloudy",
+      "socials": "",
+      "confidants": "Takemi - Death\nRyuji - Chariot\n",
+      "sales": "",
+      "metaverse": "Palace Available\n\n4 Days until Deadline",
+      "extra": "",
+      "recommended": "Advance Chariot to Rank 2"
+    },
+    "Evening": {
+      "weather": "Cloudy",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\n\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Finish The X Folders"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/29",
+    "day": "FRIDAY",
+    "Daytime": {
+      "weather": "Clear",
+      "socials": "You Start today at Home",
+      "confidants": "Takemi - Death\nRyuji - Chariot\n",
+      "sales": "",
+      "metaverse": "Palace Available\n\n3 Days until Deadline\nTREASURE ROOM \nDEADLINE",
+      "extra": "Golden Week - Showa Day",
+      "recommended": "Return The X Folders and exchange it\nfor Guy McVer\n\nAdvance Death to Rank 4"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "",
+      "recommended": "Clean up in Leblanc"
+    }
+  },
+  {
+    "month": "April",
+    "date": "4/30",
+    "day": "SATURDAY",
+    "After School": {
+      "weather": "Clear",
+      "socials": "Can Read a Book on the Train\nClass Question +1 Knowledge\nShibuya Movie Theater \n Tanktop Millionaire +3 Guts",
+      "confidants": "Takemi - Death\nRyuji - Chariot\n",
+      "sales": "Supermarket sale in Yongen\n",
+      "metaverse": "Palace Available\n\n2 Days until Deadline\nCALLING CARD \nDEADLINE",
+      "extra": "",
+      "recommended": "Finish reading Zorro, the Outlaw, then \nexchange it for The Great Thief\n\nStudy in the Library"
+    },
+    "Evening": {
+      "weather": "Clear",
+      "socials": "",
+      "confidants": "Sojiro - Hierophant\n",
+      "sales": "",
+      "metaverse": "N/A",
+      "extra": "Following the Recommded Actions? If so, your \nsocial stats should look like this today.\nKnowledge Rank 1  / Guts Rank 2\nProficiency Rank 1  / Kindness Rank 2\nCharm Rank 2",
+      "recommended": "Brew some Coffee"
+    }
+  }
+]
