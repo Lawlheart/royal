@@ -49,8 +49,9 @@ const loadMonthData = (monthName, monthRaw) => {
     days.push({
       month: monthName,
       date: partial1.Date,
-      day: partial1.Time,
-      [partial2.Time]: {
+      weekday: partial1.Time,
+      day: {
+        time: partial2.Time,
         weather: partial1.Weather,
         socials: partial1["Social Stats Opportunities"],
         confidants: `${partial1["Confidants Available"]}\n${partial1["Confidants Available 2"]}`,
@@ -59,7 +60,8 @@ const loadMonthData = (monthName, monthRaw) => {
         extra: partial1["Extra"],
         recommended: partial1["Recommended Actions"],
       },
-      [partial3.Time]: {
+      night: {
+        time: partial3.Time,
         weather: partial3.Weather,
         socials: partial3["Social Stats Opportunities"],
         confidants: `${partial3["Confidants Available"]}\n${partial3["Confidants Available 2"]}`,

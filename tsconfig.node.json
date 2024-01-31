@@ -8,6 +8,8 @@
     "playwright.config.*"
   ],
   "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
     "composite": true,
     "noEmit": true,
     "module": "ESNext",

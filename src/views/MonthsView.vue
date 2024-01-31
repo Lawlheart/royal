@@ -45,12 +45,6 @@ const months = ref([
   }
 ]);
 
-const timeSlots = ref([
-  "Daytime",
-  "After School",
-  "Evening"
-])
-
 </script>
 
 <template>
@@ -59,11 +53,11 @@ const timeSlots = ref([
       <h2>{{ month.name }}</h2>
       <section class="days">
         <div class="day" v-for="day in month.data" :key="day.date">
-          <h3>{{ day.day }} {{ day.date }}</h3>
+          <h3>{{ day.weekday }} {{ day.date }}</h3>
           <!-- <p>{{ day.description }}</p> -->
-          <ng-container v-for="slot in timeSlots" :key="slot">
+          <ng-container v-for="slot in ['day', 'night']" :key="slot">
             <section class="time-item" v-if="day[slot]">
-              <h4>{{ slot }} - {{ day[slot].weather }}</h4>
+              <h4>{{ day[slot].time }} - {{ day[slot].weather }}</h4>
               <div class="confidants">
                 <div v-for="confidant in day[slot].confidants.split('\n')">{{ confidant }}</div>
               </div>

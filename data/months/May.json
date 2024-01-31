@@ -2,8 +2,9 @@
   {
     "month": "May",
     "date": "5/1",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "Aojiru +1 Proficiency\n\nShibuya Theater - The Cake Knight \nRises +3 Kindness",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -12,7 +13,8 @@
       "extra": "Midterm on 5/11 Knowledge Rank 2 to pass, \nRank 3 for Top Ten in Class.\n\nJoker Appreciation Day",
       "recommended": "Purchase The Muscle Workout Set,\nAojiru and Bio Nutrients.\n\nAdvance Chariot to Rank 3"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Medicinal Bath +3 Charm",
       "confidants": "\n",
@@ -25,8 +27,9 @@
   {
     "month": "May",
     "date": "5/2",
-    "day": "MONDAY",
-    "After School": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Cutscene",
       "confidants": "Cutscene\n",
@@ -35,7 +38,8 @@
       "extra": "Cutscene",
       "recommended": "Cutscene"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Crossword +1 Knowledge\nCall in at Ore No Beko +3 Proficiency",
       "confidants": "\n",
@@ -48,8 +52,9 @@
   {
     "month": "May",
     "date": "5/3",
-    "day": "TUESDAY",
-    "Daytime": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "Cutscene",
       "confidants": "Cutscene\n",
@@ -58,7 +63,8 @@
       "extra": "Golden Week - Constitutional Memorial Day",
       "recommended": "Cutscene"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "\n",
@@ -71,8 +77,9 @@
   {
     "month": "May",
     "date": "5/4",
-    "day": "WEDNESDAY",
-    "Daytime": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Cloudy",
       "socials": "Restricted",
       "confidants": "Restricted\n",
@@ -81,7 +88,8 @@
       "extra": "Golden Week - Greenery Day\n\nMay the Fourth be with you.",
       "recommended": "Restricted"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "\n",
@@ -94,8 +102,9 @@
   {
     "month": "May",
     "date": "5/5",
-    "day": "THURSDAY",
-    "Daytime": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Cloudy",
       "socials": "Restricted",
       "confidants": "Restricted\n",
@@ -104,7 +113,8 @@
       "extra": "Golden Week - Children's Day",
       "recommended": "Restricted"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Plant Care +1-2 Kindness",
       "confidants": "\n",
@@ -117,8 +127,9 @@
   {
     "month": "May",
     "date": "5/6",
-    "day": "FRIDAY",
-    "After School": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Class Lecture +1 Knowledge\nShibuya Theater +3 Kindness\nCan now read in the School Library\nBig Burger Challenge Unlocked\nShibuya Diner Now Open",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\n",
@@ -127,10 +138,11 @@
       "extra": "New Confidant Available\n\n",
       "recommended": "Return Guy McVer and exchange it for\nBubbly Hills, 90210. Talk to the owner\nof the Model Gun Shop\n\nAdvance Lovers to Rank 2"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Beef Bowl Job (Ore no Beko) \nNow Available + Proficiency",
-      "confidants": "Iwai - Hanged\nYoshida - Sun \nSojiro - Hierophant\n",
+      "confidants": "Iwai - Hanged Man\nYoshida - Sun \nSojiro - Hierophant\n",
       "sales": "Big Burger Challenge 500yen \nat night\nNew Accessories Vender, \nShibuya Central Street",
       "metaverse": "N/A",
       "extra": "Sojiro will now let you explore Tokyo at night. \nLucky you. Go check out the night life a little\n\nNew Confidants Available",
@@ -140,8 +152,9 @@
   {
     "month": "May",
     "date": "5/7",
-    "day": "SATURDAY",
-    "After School": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Class Question +1 Knowledge\n\n            Forced Objective",
       "confidants": "Restricted\n",
@@ -150,7 +163,8 @@
       "extra": "If you can confuse a mini boss (Pulpina or \nSkull Cracker,) then theres a chance that they\nwill drop cash or an item. Try inflicting confuse\non mini bosses to shake them down for all they \nhave.",
       "recommended": "Restricted"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "\n",
@@ -163,8 +177,9 @@
   {
     "month": "May",
     "date": "5/8",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "Restricted",
       "confidants": "Restricted\n",
@@ -173,10 +188,11 @@
       "extra": "Restricted",
       "recommended": "Check in on Mishima"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Aojiro +1 Guts\nMedicinal Bath +3 Charm\n",
-      "confidants": "Sojiro - Hierophant\nIwai - Hanged \nYoshida - Sun \n",
+      "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun \n",
       "sales": "New Accessories at\nUnstopable\nTV Shopping:\nRelaxation Set - 4,600yen\nBio Nutrients Set - 2,680yen",
       "metaverse": "N/A",
       "extra": "",
@@ -186,8 +202,9 @@
   {
     "month": "May",
     "date": "5/9",
-    "day": "MONDAY",
-    "After School": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy\n\nPollen \nWarning",
       "socials": "Shibuya Theater +3 Kindness\n",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -196,7 +213,8 @@
       "extra": "You start at the hideout today but you can leave\nand do whatever you want.",
       "recommended": "Advance Death to Rank 5"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Study w/ Ann +3 Knowledge\nLeftover Curry Ingredients +1 Guts",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun \n",
@@ -209,8 +227,9 @@
   {
     "month": "May",
     "date": "5/10",
-    "day": "TUESDAY",
-    "After School": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy\n\nPollen\nWarning",
       "socials": "Class Question +1 Knowledge\n\nShibuya Theater +3 Kindness",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\n",
@@ -219,10 +238,11 @@
       "extra": "Midterms Tomorrow, Knowledge \nRank 2 required to pass, Rank 3\nKnowledge for Top Ten in Class",
       "recommended": "Advance Lovers to Rank 3"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Crossword +1 Knowledge\nStudy w/ Ryuji +3 Knowledge",
-      "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon?\n",
+      "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\n",
       "sales": "Street Accessories Available",
       "metaverse": "N/A",
       "extra": "New Confidant Available",
@@ -232,8 +252,9 @@
   {
     "month": "May",
     "date": "5/11",
-    "day": "WEDNESDAY",
-    "After School": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Rain",
       "socials": "Answers inside the note -------->",
       "confidants": "Tests\n",
@@ -242,7 +263,8 @@
       "extra": "Tests",
       "recommended": "Tests"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "N/A",
       "socials": "N/A",
       "confidants": "N/A\n",
@@ -255,8 +277,9 @@
   {
     "month": "May",
     "date": "5/12",
-    "day": "THURSDAY",
-    "After School": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Answers inside the note -------->",
       "confidants": "Tests\n",
@@ -265,7 +288,8 @@
       "extra": "Tests",
       "recommended": "Tests"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "N/A",
       "socials": "N/A",
       "confidants": "N/A\n",
@@ -278,8 +302,9 @@
   {
     "month": "May",
     "date": "5/13",
-    "day": "FRIDAY",
-    "After School": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "After School",
       "weather": "Rain",
       "socials": "Answers inside the note -------->",
       "confidants": "That new boi is HOTT\n",
@@ -288,7 +313,8 @@
       "extra": "Tests",
       "recommended": "Chat with the new Counselor"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "N/A",
       "socials": "N/A",
       "confidants": "N/A\n",
@@ -301,8 +327,9 @@
   {
     "month": "May",
     "date": "5/14",
-    "day": "SATURDAY",
-    "After School": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Knowledge Skill Check\nLv 2 to Pass\nLv 3 for Top Ten",
       "confidants": "Tests\n",
@@ -311,7 +338,8 @@
       "extra": "Tests",
       "recommended": "Tests"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "\n",
@@ -324,8 +352,9 @@
   {
     "month": "May",
     "date": "5/15",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Rain",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -334,7 +363,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "\n",
@@ -347,8 +377,9 @@
   {
     "month": "May",
     "date": "5/16",
-    "day": "MONDAY",
-    "After School": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Class Question +1 Knowledge",
       "confidants": "Restricted\n",
@@ -357,7 +388,8 @@
       "extra": "Restricted",
       "recommended": "Restricted"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "SLEEP",
       "confidants": "SLEEP\n",
@@ -370,8 +402,9 @@
   {
     "month": "May",
     "date": "5/17",
-    "day": "TUESDAY",
-    "After School": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Restricted",
       "confidants": "Restricted\n",
@@ -380,7 +413,8 @@
       "extra": "Restricted",
       "recommended": "Restricted"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "\n",
@@ -393,8 +427,9 @@
   {
     "month": "May",
     "date": "5/18",
-    "day": "WEDNESDAY",
-    "After School": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Takemi - Death\nWardens - Strength\n",
@@ -403,7 +438,8 @@
       "extra": "New Hideout",
       "recommended": "Buy what you need for an \nInfiltration. Save 16,500 Yen for Fusions\n\nInfiltrate Palace"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Crossword +1 Knowledge\nLeftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon \n",
@@ -416,8 +452,9 @@
   {
     "month": "May",
     "date": "5/19",
-    "day": "THURSDAY",
-    "After School": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "After School",
       "weather": "Rain",
       "socials": "Class Question +1 Knowledge",
       "confidants": "Takemi - Death\nAnn - Lovers\n",
@@ -426,7 +463,8 @@
       "extra": "",
       "recommended": "Circumvent Special Obstacle"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Rain",
       "socials": "TV Quiz +1 Knowledge",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\n\n",
@@ -439,8 +477,9 @@
   {
     "month": "May",
     "date": "5/20",
-    "day": "FRIDAY",
-    "After School": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy\n\nPollen \nWarning",
       "socials": "Exam Results Posted +2-3 Charm",
       "confidants": "Takemi - Death\nRyuji - Chariot\nMaruki - Councillor\n",
@@ -449,7 +488,8 @@
       "extra": "Exam Scores Posted\nYou can see the scores again after class\n\nNew Confidant Available",
       "recommended": "Advance Death to Rank 6"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy\n\nPollen\nWarning",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Sojiro - Hierophant\nYoshida - Sun\nMishima - Moon\nRyuji - Chariot \n",
@@ -462,8 +502,9 @@
   {
     "month": "May",
     "date": "5/21",
-    "day": "SATURDAY",
-    "After School": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Can Read a Book on the Train \nClass Question +1 Knowledge",
       "confidants": "Takemi - Death\nAnn - Lovers\n",
@@ -472,7 +513,8 @@
       "extra": "",
       "recommended": "Read The Great Thief\n\nInfiltrate palace and secure infiltration\nroute"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Plant Care +1-2 Kindness\n",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\n",
@@ -485,8 +527,9 @@
   {
     "month": "May",
     "date": "5/22",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "Aojiru +1 Kindness",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -495,7 +538,8 @@
       "extra": "",
       "recommended": "Buy the Muscle Plus Set then go get some \nAojiru from the Drink Stand\n\nSend Calling Card"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Aojiru +1 Kindness\nMedicinal Bath +3 Charm\nLeftover Curry Ingredients +1 Guts",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\n",
@@ -508,8 +552,9 @@
   {
     "month": "May",
     "date": "5/23",
-    "day": "MONDAY",
-    "After School": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear\n\nPollen \nWarning",
       "socials": "Class Question - +1 Knowledge\n",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\n",
@@ -518,7 +563,8 @@
       "extra": "",
       "recommended": "Steal the Treasure"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear\n\nPollen \nWarning",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\n",
@@ -531,8 +577,9 @@
   {
     "month": "May",
     "date": "5/24",
-    "day": "TUESDAY",
-    "After School": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Can Read a Book on the Train \n",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\n",
@@ -541,7 +588,8 @@
       "extra": "",
       "recommended": "Finish reading The Great Thief\nBuy Vague at the Bookstore in Shibuya\n\nAdvance Death to Rank 7"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\n",
@@ -554,8 +602,9 @@
   {
     "month": "May",
     "date": "5/25",
-    "day": "WEDNESDAY",
-    "After School": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\n",
@@ -564,7 +613,8 @@
       "extra": "",
       "recommended": "Advance Chariot to Rank 4"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Yoshida - Sun\nMishima - Moon\nRyuji - Chariot\nKawakami - Temp\nOperation \nMaidwatch, \nRyuji +3",
@@ -577,8 +627,9 @@
   {
     "month": "May",
     "date": "5/26",
-    "day": "THURSDAY",
-    "After School": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear\n\nPollen\nWarning",
       "socials": "Class Question +1 Knowledge\n\n",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\n",
@@ -587,7 +638,8 @@
       "extra": "",
       "recommended": "Summon a Temperance Arcana Persona\n\nAdvance Lovers to Rank 4"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear\n\nPollen\nWarning",
       "socials": "TV Quiz +1 Knowledge\nCrossword +1 Knowledge",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp\nOperation \nMaidwatch, \nRyuji +3",
@@ -600,8 +652,9 @@
   {
     "month": "May",
     "date": "5/27",
-    "day": "FRIDAY",
-    "After School": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMaruki - Councillor\n",
@@ -610,7 +663,8 @@
       "extra": "",
       "recommended": "Advance Councillor to Rank 3"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp\nOperation \nMaidwatch, \nRyuji +3",
@@ -623,8 +677,9 @@
   {
     "month": "May",
     "date": "5/28",
-    "day": "SATURDAY",
-    "After School": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\n",
@@ -633,7 +688,8 @@
       "extra": "New Intermediate Batting Machine.",
       "recommended": "Advance Lovers to Rank 5"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nOperation \nMaidwatch, \nRyuji +3",
@@ -646,8 +702,9 @@
   {
     "month": "May",
     "date": "5/29",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "Aojiru +1 Knowledge\n",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\n",
@@ -656,7 +713,8 @@
       "extra": "",
       "recommended": "Buy the Japanese Gift Set, Aojiru \nand Bio Nutrients\n\nAccept that invite from Ryuji"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Aojiru +1 Knowledge\nLeftover Curry Ingredients +1 Guts\nCall in at Ore No Beko +3 Proficiency\nMedicinal Bath +3 Charm",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nOperation \nMaidwatch, \nRyuji +3",
@@ -669,8 +727,9 @@
   {
     "month": "May",
     "date": "5/30",
-    "day": "MONDAY",
-    "After School": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -679,7 +738,8 @@
       "extra": "CUTSCENE",
       "recommended": "Cutscene"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp\nOperation \nMaidwatch, \nRyuji +3",
@@ -692,8 +752,9 @@
   {
     "month": "May",
     "date": "5/31",
-    "day": "TUESDAY",
-    "After School": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy\n\nPollen \nWarning",
       "socials": "Class Question +1 Knowledge\n\n",
       "confidants": "Takemi - Death\nAnn - Lovers\n",
@@ -702,7 +763,8 @@
       "extra": "",
       "recommended": "Advance Lovers to Rank 6"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy\n\nPollen\nWarning",
       "socials": "Crossword +1 Knowledge\n",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp\nOperation \nMaidwatch, \nRyuji +3",

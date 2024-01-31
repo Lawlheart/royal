@@ -2,8 +2,9 @@
   {
     "month": "April",
     "date": "4/18",
-    "day": "MONDAY",
-    "After School": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Shibuya Movie Theater \n Tanktop Millionaire +3 Guts\nStudying the the Libraby has a lower\nchance of raising knowledge but can\nraise Guts instead",
       "confidants": "Takemi - Death\n",
@@ -12,7 +13,8 @@
       "extra": "Feel free to explore the areas available to you.\nTime won't pass until you commit to an Activity,\nor Confidant.",
       "recommended": "Borrow Pirate Legends from the Library\n\nInitiate Death Arcana Confidant\nBold indicates that the action will advance time"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Crossword at Leblanc +1 Knowledge",
       "confidants": "\n",
@@ -25,8 +27,9 @@
   {
     "month": "April",
     "date": "4/19",
-    "day": "TUESDAY",
-    "After School": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Class Question +1 Knowledge\n",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -35,7 +38,8 @@
       "extra": "",
       "recommended": "Purchase Bio Nutrients from the \nFlower Shop & Purchase SP Drinks from\nVending Machines\n\nInfiltrate the Palace"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Plant Feeding +1-2 Kindness ",
       "confidants": "\n",
@@ -48,8 +52,9 @@
   {
     "month": "April",
     "date": "4/20",
-    "day": "WEDNESDAY",
-    "After School": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Rain",
       "socials": "Can Read a Book on the Train\n\nImproved Study +3 Knowledge\nImproved Tool Crafting",
       "confidants": "Takemi - Death\n",
@@ -58,10 +63,11 @@
       "extra": "Midterm on 5/11 Knowledge Rank 2 to pass, \nRank 3 for Top Ten in Class. \nDon't worry about being Top Ten or Ranked One\nthe rewards aren't worth it. Settle for passing \nthe exams and the plus 2 to Charm.",
       "recommended": "Finish Pirate Legends & Exchange for\nZorro, the Outlaw. Buy the DVD player in\nYongen then head to Shubuya to rent Wraith\n\nSend the Calling card"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Rain",
       "socials": "Improved Study +3 Knowledge\nImproved Tool Crafting",
-      "confidants": "Sojiro-Hierophant\n",
+      "confidants": "Sojiro - Hierophant\n",
       "sales": "",
       "metaverse": "N/A",
       "extra": "",
@@ -71,8 +77,9 @@
   {
     "month": "April",
     "date": "4/21",
-    "day": "THURSDAY",
-    "After School": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "After School",
       "weather": "Rain",
       "socials": "Shibuya Diner now available\n\nImproved Study +3 Knowledge",
       "confidants": "Takemi - Death\n",
@@ -81,7 +88,8 @@
       "extra": "",
       "recommended": "Steal the Treasure!!"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Bathhouse now Available +2 Charm ",
       "confidants": "Sojiro - Hierophant\n",
@@ -94,8 +102,9 @@
   {
     "month": "April",
     "date": "4/22",
-    "day": "FRIDAY",
-    "After School": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -104,7 +113,8 @@
       "extra": "",
       "recommended": "Watch Tanktop Millionare at Shibuya\nMovie Theater"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Sojiro - Hierophant\n",
@@ -117,8 +127,9 @@
   {
     "month": "April",
     "date": "4/23",
-    "day": "SATURDAY",
-    "After School": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Class Question +1 Knowledge\n",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -127,7 +138,8 @@
       "extra": "\n",
       "recommended": "Advance Death to Rank 2"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Sojiro - Hierophant\n",
@@ -140,8 +152,9 @@
   {
     "month": "April",
     "date": "4/24",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "Aojiru Juice for Sale +1 Charm\n(Try to not miss these every Sunday)",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -150,7 +163,8 @@
       "extra": "",
       "recommended": "Buy Aojiru Juice\n\nApply and Work at Triple Seven"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Sojiro - Hierophant\n",
@@ -163,8 +177,9 @@
   {
     "month": "April",
     "date": "4/25",
-    "day": "MONDAY",
-    "After School": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Can Read a Book on the Train \n\nClass Question +1 Charm & \n+1 (+2) with Ann\n\n",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -173,7 +188,8 @@
       "extra": "\n\n",
       "recommended": "Read Zorro, the Outlaw\n\nStudy in the Library"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Sojiro - Hierophant\n",
@@ -186,8 +202,9 @@
   {
     "month": "April",
     "date": "4/26",
-    "day": "TUESDAY",
-    "After School": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -196,7 +213,8 @@
       "extra": "",
       "recommended": "Advance Death to Rank 3"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Sojiro - Hierophant\n",
@@ -209,8 +227,9 @@
   {
     "month": "April",
     "date": "4/27",
-    "day": "WEDNESDAY",
-    "After School": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Class Question +1 Knowledge\n",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -219,7 +238,8 @@
       "extra": "",
       "recommended": "Return Wraith and rent The X Folders\n\nWork at Triple Seven"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Crossword +1 Knowledge\n",
       "confidants": "Sojiro - Hierophant\n",
@@ -232,8 +252,9 @@
   {
     "month": "April",
     "date": "4/28",
-    "day": "THURSDAY",
-    "After School": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -242,7 +263,8 @@
       "extra": "",
       "recommended": "Advance Chariot to Rank 2"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Sojiro - Hierophant\n\n",
@@ -255,8 +277,9 @@
   {
     "month": "April",
     "date": "4/29",
-    "day": "FRIDAY",
-    "Daytime": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "You Start today at Home",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -265,7 +288,8 @@
       "extra": "Golden Week - Showa Day",
       "recommended": "Return The X Folders and exchange it\nfor Guy McVer\n\nAdvance Death to Rank 4"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Sojiro - Hierophant\n",
@@ -278,8 +302,9 @@
   {
     "month": "April",
     "date": "4/30",
-    "day": "SATURDAY",
-    "After School": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Can Read a Book on the Train\nClass Question +1 Knowledge\nShibuya Movie Theater \n Tanktop Millionaire +3 Guts",
       "confidants": "Takemi - Death\nRyuji - Chariot\n",
@@ -288,7 +313,8 @@
       "extra": "",
       "recommended": "Finish reading Zorro, the Outlaw, then \nexchange it for The Great Thief\n\nStudy in the Library"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Sojiro - Hierophant\n",

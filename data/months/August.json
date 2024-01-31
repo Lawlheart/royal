@@ -2,8 +2,9 @@
   {
     "month": "August",
     "date": "8/1",
-    "day": "MONDAY",
-    "Daytime": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "Daytimel",
       "weather": "Torrential\nRain",
       "socials": "Read w/ Yusuke +3 Charm",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -12,7 +13,8 @@
       "extra": "Advanced Batting Machines Available\n(Might have been added at an eariler date)",
       "recommended": "Try the Batting Cages in Yongen"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Sojiro - Hierophant\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\nHang w/ Yusuke",
@@ -25,8 +27,9 @@
   {
     "month": "August",
     "date": "8/2",
-    "day": "TUESDAY",
-    "Daytime": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMakoto - Priestess\n",
@@ -35,7 +38,8 @@
       "extra": "",
       "recommended": "Summon a Chariot Arcana Persona\n\nAdvance Chariot to Rank 8"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Call in at Ore No Beko +3 Proficiency",
       "confidants": "Sojiro - Hierophant\nYoshida - Sun\nMishima - Moon\nAkechi - Justice\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
@@ -48,8 +52,9 @@
   {
     "month": "August",
     "date": "8/3",
-    "day": "WEDNESDAY",
-    "Daytime": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Torrential\nRain",
       "socials": "Watch a DVD with Ryuji +3 Charm",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -58,7 +63,8 @@
       "extra": "",
       "recommended": "Work at the Flower Shop"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Torrential\nRain",
       "socials": "Crossword +1 Knowledge",
       "confidants": "Iwai - Hanged Man\nKawakami - Temp\nOhya - Devil\nHifumi - Star\nHang w/ Ryuji",
@@ -71,8 +77,9 @@
   {
     "month": "August",
     "date": "8/4",
-    "day": "THURSDAY",
-    "Daytime": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "Read w/ Yusuke +3 Charm\nTV Quiz +1 Knowledge\n",
       "confidants": "Takemi - Death\nKasumi - Faith\nYusuke - Emperor\nMakoto - Priestess\nHang w/ Yusuke",
@@ -81,7 +88,8 @@
       "extra": "",
       "recommended": "Work at the Flower Shop"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "TV Quiz +1 Knowledge",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
@@ -94,8 +102,9 @@
   {
     "month": "August",
     "date": "8/5",
-    "day": "FRIDAY",
-    "Daytime": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nMakoto - Priestess\n",
@@ -104,7 +113,8 @@
       "extra": "",
       "recommended": "Advance Chariot to Rank 9"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts\nMovie w/ Yusuke + 3 Charm",
       "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
@@ -117,8 +127,9 @@
   {
     "month": "August",
     "date": "8/6",
-    "day": "SATURDAY",
-    "Daytime": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat \nWave",
       "socials": "Call in at Rafflesia +Kindness",
       "confidants": "Ryuji - Chariot\nAnn - Lovers\nYusuke - Emperor\n",
@@ -127,7 +138,8 @@
       "extra": "",
       "recommended": "Max the Chariot Arcana Confidant"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "",
       "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star",
@@ -140,17 +152,19 @@
   {
     "month": "August",
     "date": "8/7",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "Aojiru +1 Proficiency\nDouble Points at 777 +Charm",
-      "confidants": "Takemi - Death\nAnn - Lovers\nKasumi - Faith\nYusuke - Emperor\nMakoto- Priestess\n",
+      "confidants": "Takemi - Death\nAnn - Lovers\nKasumi - Faith\nYusuke - Emperor\nMakoto - Priestess\n",
       "sales": "TV Shopping\nPhantom Thief Set -8.980yen?\nHeroic Set - 7,980yen?\nPotent Healing items for sale\nat the Church in Kanda",
       "metaverse": "Palace & Mementos\nAvailable\n\n14 Days until Deadline",
       "extra": "Trader Sakai wants Exorcism Water until 8/13",
       "recommended": "Buy some Aojiru\n\nWork at Triple Seven"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "Aojiru +1 Proficiency\nMedicated Bath +3 Charm\nLeftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\n",
@@ -163,8 +177,9 @@
   {
     "month": "August",
     "date": "8/8",
-    "day": "MONDAY",
-    "Daytime": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Cloudy",
       "socials": "DVD with Yusuke +3 Charm",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMakoto - Priestess\n",
@@ -173,7 +188,8 @@
       "extra": "",
       "recommended": "Max the Lovers Arcana Confidant"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Torrential\nRain",
       "socials": "Crossword +1 Knowledge\nLeftover Curry Ingredients +1 Guts",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nOhya - Devil\nHifumi - Star\nTakemi - Death\n\nHang w/ Yusuke",
@@ -186,8 +202,9 @@
   {
     "month": "August",
     "date": "8/9",
-    "day": "TUESDAY",
-    "Daytime": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -196,7 +213,8 @@
       "extra": "",
       "recommended": "Feed your plant MEGA Fertilizer\n\nHead into Mementos\n(Optional) Lock up Arsene during an Alarm"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nAkechi - Justice\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
@@ -209,8 +227,9 @@
   {
     "month": "August",
     "date": "8/10",
-    "day": "WEDNESDAY",
-    "Daytime": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear ",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nKasumi - Faith\n",
@@ -219,7 +238,8 @@
       "extra": "",
       "recommended": "Summon a Death Arcana Persona\n\nAdvance Death to Rank 8"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Torrential\nRain",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nOhya - Devil\nHifumi - Star\nTakemi - Death",
@@ -232,8 +252,9 @@
   {
     "month": "August",
     "date": "8/11",
-    "day": "THURSDAY",
-    "Daytime": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Torrential\nRain",
       "socials": "DVD with Yusuke +3 Charm",
       "confidants": "Takemi - Death\nMakoto - Priestess\nYusuke - Emperor\n",
@@ -242,7 +263,8 @@
       "extra": "",
       "recommended": "Head to Pengin Sniper and Play Darts\nwith Morgana"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Sojiro - Hierophant\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\n",
@@ -255,8 +277,9 @@
   {
     "month": "August",
     "date": "8/12",
-    "day": "FRIDAY",
-    "Daytime": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "",
       "confidants": "Takemi - Death\nAnn - Lovers\nYusuke - Emperor\n",
@@ -265,7 +288,8 @@
       "extra": "",
       "recommended": "Summon an Emperor Arcana Persona\n\nAdvance Emperor to Rank 4"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nChariot Rank 7 \nEvent Available",
@@ -278,8 +302,9 @@
   {
     "month": "August",
     "date": "8/13",
-    "day": "SATURDAY",
-    "Daytime": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Cloudy",
       "socials": "Games With Ryuji +3 Guts",
       "confidants": "Takemi - Death\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -288,7 +313,8 @@
       "extra": "Trader Sakai wants Exorcism Water until 8/13",
       "recommended": "Head to the Underground Mall and buy \nthe Darts set for 100,000 yen\n\nAdvance Death to Rank 9"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star\nTakemi - Death\n\nHang w/ Ryuji",
@@ -301,8 +327,9 @@
   {
     "month": "August",
     "date": "8/14",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Cloudy",
       "socials": "Aojiru +1 Guts",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nKasumi - Faith\n",
@@ -311,7 +338,8 @@
       "extra": "",
       "recommended": "Buy some Aojiru\n\nHead to Pengin Sniper and Play Darts\nwith Someone"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Aojiru +1 Guts\nMedicated Bath +3 Charm",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\nTakemi - Death",
@@ -324,8 +352,9 @@
   {
     "month": "August",
     "date": "8/15",
-    "day": "MONDAY",
-    "Daytime": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "",
       "confidants": "Takemi - Death\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess\nHang w/ Makoto",
@@ -334,7 +363,8 @@
       "extra": "",
       "recommended": "Accept Makotos invite to Book Town"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Sojiro - Hierophant\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nTakemi - Death",
@@ -347,8 +377,9 @@
   {
     "month": "August",
     "date": "8/16",
-    "day": "TUESDAY",
-    "Daytime": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Torrential\nRain",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -357,7 +388,8 @@
       "extra": "",
       "recommended": "Summon a Priestess Arcana Persona\n\nAdvance Priestess to Rank 6"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\nTakemi - Death",
@@ -370,8 +402,9 @@
   {
     "month": "August",
     "date": "8/17",
-    "day": "WEDNESDAY",
-    "Daytime": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\n\n",
@@ -380,10 +413,11 @@
       "extra": "",
       "recommended": "Hang out with Takemi at the Park"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Torrential\nRain",
       "socials": "Crossword +1 Knowledge",
-      "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi -Justice\nOhya - Devil\nHifumi - Star\nTakemi - Death\n\nChariot Rank 7 \nEvent Available",
+      "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nOhya - Devil\nHifumi - Star\nTakemi - Death\n\nChariot Rank 7 \nEvent Available",
       "sales": "",
       "metaverse": "N/A",
       "extra": "",
@@ -393,8 +427,9 @@
   {
     "month": "August",
     "date": "8/18",
-    "day": "THURSDAY",
-    "Daytime": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Torrential\nRain",
       "socials": "",
       "confidants": "Takemi - Death\nMakoto - Priestess\n",
@@ -403,7 +438,8 @@
       "extra": "",
       "recommended": "Advance Priestess to Rank 7"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\nTakemi - Death",
@@ -416,8 +452,9 @@
   {
     "month": "August",
     "date": "8/19",
-    "day": "FRIDAY",
-    "Daytime": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Takemi - Death\nAnn - Lovers\nKasumi - Faith\nYusuke - Emperor\n",
@@ -426,7 +463,8 @@
       "extra": "",
       "recommended": "Advance Emperor to Rank 5"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Rain",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nOhya - Devil\n",
@@ -439,8 +477,9 @@
   {
     "month": "August",
     "date": "8/20",
-    "day": "SATURDAY",
-    "Daytime": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nMakoto - Priestess\n",
@@ -449,7 +488,8 @@
       "extra": "",
       "recommended": "Max the Death Arcana Confidant"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star",
@@ -462,8 +502,9 @@
   {
     "month": "August",
     "date": "8/21",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -472,7 +513,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "\n",
@@ -485,8 +527,9 @@
   {
     "month": "August",
     "date": "8/22",
-    "day": "MONDAY",
-    "Daytime": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -495,7 +538,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot \nNight",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Sojiro - Hierophant\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\n",
@@ -508,8 +552,9 @@
   {
     "month": "August",
     "date": "8/23",
-    "day": "TUESDAY",
-    "Daytime": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -518,7 +563,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nChihaya - Fortune\nOhya - Devil\nTakemi - Death\n",
@@ -531,8 +577,9 @@
   {
     "month": "August",
     "date": "8/24",
-    "day": "WEDNESDAY",
-    "Daytime": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -541,7 +588,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "",
       "confidants": "Iwai - Hanged Man\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star\nTakemi - Death",
@@ -554,8 +602,9 @@
   {
     "month": "August",
     "date": "8/25",
-    "day": "THURSDAY",
-    "Daytime": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -564,7 +613,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "Crossword +1 Knowledge\n",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nChihaya - Fortune\nOhya - Devil\n",
@@ -577,8 +627,9 @@
   {
     "month": "August",
     "date": "8/26",
-    "day": "FRIDAY",
-    "Daytime": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -587,7 +638,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Torrential\nRain",
       "socials": "",
       "confidants": "Iwai - Hanged Man\nKawakami - Temp\nOhya - Devil\nTakemi - Death\n",
@@ -600,8 +652,9 @@
   {
     "month": "August",
     "date": "8/27",
-    "day": "SATURDAY",
-    "Daytime": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -610,7 +663,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Torrential\nRain",
       "socials": "",
       "confidants": "Iwai - Hanged Man\nKawakami - Temp\nHifumi - Star\n",
@@ -623,8 +677,9 @@
   {
     "month": "August",
     "date": "8/28",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -633,7 +688,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Aojiru +1 Kindness\nMedicated Bath +3 Charm",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nChihaya - Fortune\n",
@@ -646,8 +702,9 @@
   {
     "month": "August",
     "date": "8/29",
-    "day": "MONDAY",
-    "Daytime": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -656,7 +713,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nOhya - Devil\nChihaya - Fortune\nHifumi - Star\n",
@@ -669,8 +727,9 @@
   {
     "month": "August",
     "date": "8/30",
-    "day": "TUESDAY",
-    "Daytime": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -679,7 +738,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "Crossword +1 Knowledge",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nAkechi - Justice\nChihaya - Fortune\nOhya - Devil",
@@ -692,8 +752,9 @@
   {
     "month": "August",
     "date": "8/31",
-    "day": "WEDNESDAY",
-    "Daytime": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear ",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -702,7 +763,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "\n",

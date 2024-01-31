@@ -2,8 +2,9 @@
   {
     "month": "July",
     "date": "7/1",
-    "day": "FRIDAY",
-    "After School": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Can Read a Book on the Train \nClass Question +1 Knowledge\nShinjuku Theater +3 Guts\nShibuya Theater +3 Charm",
       "confidants": "Takemi - Death\nAnn - Lovers\nMaruki - Councillor\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -12,7 +13,8 @@
       "extra": "Mammoth Lottery Available",
       "recommended": "Finish The ABC's of Crafting\nBorrow Speed Reading\nSummon a Lovers Arcana Persona\n\nAdvance Lovers to Rank 7"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Mishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\nChariot Rank 7 \nEvent Available",
@@ -25,8 +27,9 @@
   {
     "month": "July",
     "date": "7/2",
-    "day": "SATURDAY",
-    "After School": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Can Slack off in another teachers \nclass (Temperance Rank 5)\n",
       "confidants": "Takemi - Death\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -35,7 +38,8 @@
       "extra": "Finals on 7/13 Need Knowledge Rank 3 to pass\nRank 4 for top 10\n\nTrader Sakai wants Yakisoba Pan until 7/2",
       "recommended": "Read Speed Reader then exchange it\nfor The Alluring Dancer\n\nAdvance Priestess to Rank 3"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Call in at Ore No Beko +3 Proficiency",
       "confidants": "Mishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\n",
@@ -48,8 +52,9 @@
   {
     "month": "July",
     "date": "7/3",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "Aojiru +1 Kindness",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMakoto - Priestess\n",
@@ -58,7 +63,8 @@
       "extra": "",
       "recommended": "Buy the Body Building Set and Aojiru \nBuy a ticket for the Mammoth Lotto\n\nAdvance Priestess to Rank 4"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Aojiru +1 Kindness\nMedicated Bath +3 Charm",
       "confidants": "Yoshida - Sun\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
@@ -71,8 +77,9 @@
   {
     "month": "July",
     "date": "7/4",
-    "day": "MONDAY",
-    "After School": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "After School",
       "weather": "Rain\n\nRainy\nSeason",
       "socials": "Can Read a Book on the Train\nClass Question +1 Knowledge\n",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\n",
@@ -81,7 +88,8 @@
       "extra": "",
       "recommended": "Read through the Alluring Dancer\nThen Buy Every Book in Shibuya\n\nAdvance Emperor to Rank 2"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\nTakemi - Death",
@@ -94,8 +102,9 @@
   {
     "month": "July",
     "date": "7/5",
-    "day": "TUESDAY",
-    "After School": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMakoto - Priestess\n",
@@ -104,7 +113,8 @@
       "extra": "",
       "recommended": "Exchange The Alluring Dancer for\nThe Illusory Popess\n\nAdvance Priestess to Rank 5"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\n",
@@ -117,8 +127,9 @@
   {
     "month": "July",
     "date": "7/6",
-    "day": "WEDNESDAY",
-    "After School": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Rain\n\nRainy\nSeason",
       "socials": "Can Slack off in another teachers \nclass (Temperance Rank 5)\n",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -127,7 +138,8 @@
       "extra": "",
       "recommended": "Read through The Art of Charm\n\nHang out with Ann at the Wilton Hotel"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Rain\n\nRainy\nSeason",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nOhya - Devil\nHifumi - Star\nChariot Rank 7 \nEvent Available",
@@ -140,8 +152,9 @@
   {
     "month": "July",
     "date": "7/7",
-    "day": "THURSDAY",
-    "After School": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Class Question +1 (+2) Ann \n+1 Charm\nDouble Points at 777 +Charm",
       "confidants": "Takemi - Death\nKasumi - Faith\nYusuke - Emperor\n",
@@ -150,7 +163,8 @@
       "extra": "Tanabata or Star Festival.",
       "recommended": "Advance Faith to Rank 4"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Crossword +1 Knowledge",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
@@ -163,8 +177,9 @@
   {
     "month": "July",
     "date": "7/8",
-    "day": "FRIDAY",
-    "After School": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Can Read a Book on the Train\n",
       "confidants": "Takemi - Death\nAnn - Lovers\nMaruki - Councillor\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -173,7 +188,8 @@
       "extra": "",
       "recommended": "Read Through The Craft of Cinema\n\nCheck in on Takemi"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\n",
@@ -186,8 +202,9 @@
   {
     "month": "July",
     "date": "7/9",
-    "day": "SATURDAY",
-    "After School": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Class Question +1 Knowledge",
       "confidants": "CUTSCENE\n",
@@ -196,7 +213,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Iwai - Hanged Man\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star\n",
@@ -209,8 +227,9 @@
   {
     "month": "July",
     "date": "7/10",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -219,7 +238,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "\n",
@@ -232,8 +252,9 @@
   {
     "month": "July",
     "date": "7/11",
-    "day": "MONDAY",
-    "After School": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Class Question +1 Knowledge\nDodge Murderous Chalk +2 Charm",
       "confidants": "CUTSCENE\n",
@@ -242,7 +263,8 @@
       "extra": "CUTSCENE",
       "recommended": "Dodge Murder Chalk"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Leftover Curry Ingredients +1 Guts\nStudy w/ Ann +3 Knowledge",
       "confidants": "Sojiro - Hierophant\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\n",
@@ -255,8 +277,9 @@
   {
     "month": "July",
     "date": "7/12",
-    "day": "TUESDAY",
-    "After School": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Class Question +1 Knowledge\nStudy w/ Makoto +3 Knowledge",
       "confidants": "Takemi - Death\nRyuji - Chariot\nYusuke - Emperor\n",
@@ -265,7 +288,8 @@
       "extra": "Finals Tomorrow requires \nKnowledge Rank 3 to pass. ",
       "recommended": "Advance Emperor to Rank 3"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Crossword +1 Knowledge\nStudy w/ Ryuji +3 Knowledge",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nOhya - Devil",
@@ -278,8 +302,9 @@
   {
     "month": "July",
     "date": "7/13",
-    "day": "WEDNESDAY",
-    "After School": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Answers inside the note -------->",
       "confidants": "Tests\n",
@@ -288,7 +313,8 @@
       "extra": "Tests",
       "recommended": "Tests"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "N/A",
       "socials": "N/A",
       "confidants": "N/A\n",
@@ -301,8 +327,9 @@
   {
     "month": "July",
     "date": "7/14",
-    "day": "THURSDAY",
-    "After School": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Answers inside the note -------->",
       "confidants": "Tests\n",
@@ -311,7 +338,8 @@
       "extra": "Tests",
       "recommended": "Tests"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "N/A",
       "socials": "N/A",
       "confidants": "N/A\n",
@@ -324,8 +352,9 @@
   {
     "month": "July",
     "date": "7/15",
-    "day": "FRIDAY",
-    "After School": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "Answers inside the note -------->",
       "confidants": "Tests\n",
@@ -334,7 +363,8 @@
       "extra": "Tests",
       "recommended": "Tests"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "N/A",
       "socials": "N/A",
       "confidants": "N/A\n",
@@ -347,8 +377,9 @@
   {
     "month": "July",
     "date": "7/16",
-    "day": "SATURDAY",
-    "After School": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Knowledge Skill Check\nMinimum level 3 to Pass.\nRank 4 to reach top 10",
       "confidants": "CUTSCENE\n",
@@ -357,7 +388,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Rain",
       "socials": "SLEEP",
       "confidants": "SLEEP\n",
@@ -370,8 +402,9 @@
   {
     "month": "July",
     "date": "7/17",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -380,7 +413,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Aojiru +1 Knowledge\nLeftover Curry Ingredients +1 Guts\nMedicated Bath +3 Charm",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nKawakami - Temp\nTakemi - Death",
@@ -393,8 +427,9 @@
   {
     "month": "July",
     "date": "7/18",
-    "day": "MONDAY",
-    "After School": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "After School",
       "weather": "Cloudy",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -403,7 +438,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "\n",
@@ -416,8 +452,9 @@
   {
     "month": "July",
     "date": "7/19",
-    "day": "TUESDAY",
-    "After School": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "After School",
       "weather": "Clear",
       "socials": "Exam Results Posted +2-3 Charm\n Depending on how well you do.",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -426,7 +463,8 @@
       "extra": "",
       "recommended": "Advance Lovers to Rank 8"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Crossword +1 Knowledge",
       "confidants": "Sojiro - Hierophant\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
@@ -439,8 +477,9 @@
   {
     "month": "July",
     "date": "7/20",
-    "day": "WEDNESDAY",
-    "Daytime": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -449,7 +488,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "\n",
@@ -462,8 +502,9 @@
   {
     "month": "July",
     "date": "7/21",
-    "day": "THURSDAY",
-    "Daytime": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -472,7 +513,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "",
       "confidants": "\n",
@@ -485,8 +527,9 @@
   {
     "month": "July",
     "date": "7/22",
-    "day": "FRIDAY",
-    "Daytime": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "Restricted",
       "confidants": "Restricted\n",
@@ -495,7 +538,8 @@
       "extra": "Restricted",
       "recommended": "Restricted"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "\n",
@@ -508,8 +552,9 @@
   {
     "month": "July",
     "date": "7/23",
-    "day": "SATURDAY",
-    "Daytime": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Cloudy",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -518,7 +563,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "\n",
@@ -531,8 +577,9 @@
   {
     "month": "July",
     "date": "7/24",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Cloudy",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -541,7 +588,8 @@
       "extra": "CUTSCENE",
       "recommended": "Ginza Unlocked"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "SLEEP",
       "confidants": "SLEEP\n",
@@ -554,8 +602,9 @@
   {
     "month": "July",
     "date": "7/25",
-    "day": "MONDAY",
-    "Daytime": {
+    "weekday": "MONDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "CUTSCENE",
       "confidants": "CUTSCENE\n",
@@ -564,7 +613,8 @@
       "extra": "CUTSCENE",
       "recommended": "CUTSCENE"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "\n",
@@ -577,8 +627,9 @@
   {
     "month": "July",
     "date": "7/26",
-    "day": "TUESDAY",
-    "Daytime": {
+    "weekday": "TUESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear\n\nHeat\nWave",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMakoto - Priestess\n",
@@ -587,7 +638,8 @@
       "extra": "Trader Sakai wants MRE Ration until 7/30",
       "recommended": "Go trade with Trader Sakai \nStock up for a Palace Run if needed\n\nInfiltrate the Palace"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Mishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nOhya - Devil\n",
@@ -600,8 +652,9 @@
   {
     "month": "July",
     "date": "7/27",
-    "day": "WEDNESDAY",
-    "Daytime": {
+    "weekday": "WEDNESDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Torrential\nRain",
       "socials": "Read w/ Yusuke +3 Charm\nDouble Points at 777 +Charm",
       "confidants": "Ryuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -610,7 +663,8 @@
       "extra": "",
       "recommended": "Deliver the Calling Card\nand steal some Treasure"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Torrential\nRain",
       "socials": "Crossword +1 Knowledge\nLeftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nKawakami - Temp\nHifumi - Star\nHang w/ Yusuke\n\nChariot Rank 7 \nEvent Available",
@@ -623,8 +677,9 @@
   {
     "month": "July",
     "date": "7/28",
-    "day": "THURSDAY",
-    "Daytime": {
+    "weekday": "THURSDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear",
       "socials": "Read w/ Ryuji +3 Guts",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nKasumi - Faith\nYusuke - Emperor\nMakoto - Priestess",
@@ -633,7 +688,8 @@
       "extra": "",
       "recommended": "(Optional) Throw Arsene in Lockdown\n\nMax the Faith Arcana Confidant"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear",
       "socials": "Movie w/ Makoto - Shinjuku +3 Guts",
       "confidants": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nHang w/ Ryuji",
@@ -646,8 +702,9 @@
   {
     "month": "July",
     "date": "7/29",
-    "day": "FRIDAY",
-    "Daytime": {
+    "weekday": "FRIDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Cloudy",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor \nMakoto - Priestess\nHang w/ Akechi",
@@ -656,7 +713,8 @@
       "extra": "",
       "recommended": "Summon a Lovers Arcana Persona\n\nAdvance Lovers to Rank 9"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Torrential\nRain",
       "socials": "Leftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nHifumi - Star\nChariot Rank 7 \nEvent Available",
@@ -669,8 +727,9 @@
   {
     "month": "July",
     "date": "7/30",
-    "day": "SATURDAY",
-    "Daytime": {
+    "weekday": "SATURDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear \n\nHeat\nWave",
       "socials": "",
       "confidants": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMishima - Moon\nHang w/ Makoto",
@@ -679,7 +738,8 @@
       "extra": "Trader Sakai wants MRE Ration until 7/30",
       "recommended": "Buy Gambla Goemon in Yongen\n\nTake Ryuji out for ramen at Ogikubo"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "",
       "confidants": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star",
@@ -692,8 +752,9 @@
   {
     "month": "July",
     "date": "7/31",
-    "day": "SUNDAY",
-    "Daytime": {
+    "weekday": "SUNDAY",
+    "day": {
+      "time": "Daytime",
       "weather": "Clear \n\nHeat\nWave",
       "socials": "Aojiru +1 Charm",
       "confidants": "Takemi - Death\nAnn - Lovers\nKasumi - Faith\nYusuke - Emperor\nMakoto - Priestess\n",
@@ -702,7 +763,8 @@
       "extra": "",
       "recommended": "Buy some Aojiru\n\nTake Ann to Harajuku"
     },
-    "Evening": {
+    "night": {
+      "time": "Evening",
       "weather": "Clear \n\nHot\nNight",
       "socials": "Aojiru +1 Charm\nMedicated Bath +3 Charm\nLeftover Curry Ingredients +1 Guts",
       "confidants": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nHifumi - Star\n",
